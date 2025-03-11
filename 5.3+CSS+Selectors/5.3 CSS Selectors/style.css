@@ -1,0 +1,38 @@
+ol {
+  margin-left: -40px;
+  margin-top: -20px;
+  list-style-position: inside;
+  text-align: center;
+}
+
+h1{
+  text-align: center;
+}
+h2{
+  text-align: center;
+  color: rgb(192, 118, 29);
+}
+p{
+  color: red;
+  text-align: center;
+}
+
+.note{
+  font-size: 20px;
+  text-align: center;
+}
+
+#id-selector-demo{
+  color: green;
+  text-align: center;
+}
+/* Write your CSS below, don't change the rules above. */
+li[value='5']{
+  color: blueviolet;
+  text-align: center;
+}
+
+.txtl2{
+  color: rgb(199, 41, 178);
+  text-align: center;
+}
